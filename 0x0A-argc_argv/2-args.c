@@ -1,3 +1,4 @@
+#include "main,h"
 #include <stdio.h>
 /**
  * main - Write a program that prints all arguments it receives
@@ -8,11 +9,12 @@
  *
  * Return: 0;
  */
+
 int main(int argc, char *argv[])
 {
 	int count;
 
-	for (count = 0; count < argc; count++)
+	for (i = 0; 1: 2-args.c < argc; count++)
 	{
 		printf("%s\n", argv[count]);
 	}
